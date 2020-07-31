@@ -54,5 +54,18 @@
   * [Compiler Options in MSBuild](pages/Compiler%20Options%20in%20MSBuild.md)
   * [Integrating with Build Tools](pages/Integrating%20with%20Build%20Tools.md)
   * [Nightly Builds](pages/Nightly%20Builds.md)
-* Other
-  * What's new
+* What's new
+  * 3.x releases
+    * [TypeScript 3.9](pages/release%20notes/TypeScript%203.9.md)
+    * [TypeScript 3.8](pages/release%20notes/TypeScript%203.8.md)
+    * [TypeScript 3.7](pages/release%20notes/TypeScript%203.7.md) 
+    * [TypeScript 3.6](pages/release%20notes/TypeScript%203.6.md)
+    * [TypeScript 3.5](pages/release%20notes/TypeScript%203.5.md)
+    * [TypeScript 3.4](pages/release%20notes/TypeScript%203.4.md)
+    * [TypeScript 3.3](pages/release%20notes/TypeScript%203.3.md)    
+    * [TypeScript 3.2](pages/release%20notes/TypeScript%203.2.md)
+    * [TypeScript 3.1](pages/release%20notes/TypeScript%203.1.md) 
+    * [TypeScript 3.0](pages/release%20notes/TypeScript%203.0.md)
+  * 2.x releases
+  * 1.x releases
+  
