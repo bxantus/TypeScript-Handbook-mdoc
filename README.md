@@ -1,13 +1,17 @@
-# TypeScript-Handbook
+# TypeScript-Handbook mdoc format
 
-[![Build Status](https://travis-ci.org/Microsoft/TypeScript-Handbook.svg)](https://travis-ci.org/Microsoft/TypeScript-Handbook)
+This handbook is a forked version, of Microsoft's [repository](https://github.com/microsoft/TypeScript-Handbook).   
+It is meant to be read using the [mdoc](https://github.com/bxantus/mdoc) vscode extension, and also is used as en example documentation project for mdoc.
 
-The TypeScript Handbook is a comprehensive guide to the TypeScript language.
-It is meant to be read online at [the TypeScript website](https://www.typescriptlang.org/docs/home.html) or [directly from this repository](./pages/Basic%20Types.md).
-
-For a more formal description of the language, see the [latest TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md).
+> **Note:** If you'd like to contribute to the handbook, please fork the original repository and create pull requests for it. This repository probably will be synchronized with it.
 
 
-## How To Contribute
+## Start learning
 
-TypeScript-Handbook is accepting contributions. If you've submitted a PR for an existing issue, please post a comment in the issue to avoid duplication of effort. See our [CONTRIBUTING](/CONTRIBUTING.md) file for more information - it also contains guidelines for how to submit a PR.
+* [TS in 5m](pages/tutorials/TypeScript%20in%205%20minutes.md) 5 minute overview of the language
+* [Handbook](pages/Basic%20Types.md) The TypeScript language reference
+
+## Familiar With TypeScript already?
+
+* [Release Notes](pages/release%20notes/../release%20notes/TypeScript%203.9.md) TypeScript Release Notes (3.9)
+* [d.ts Guide](pages/declaration%20files/Introduction.md) Learn how to declare the shape of JS
