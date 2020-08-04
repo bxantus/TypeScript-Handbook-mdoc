@@ -1,4 +1,4 @@
-# Introduction
+# Type Inference
 
 In this section, we will cover type inference in TypeScript. Namely, we'll discuss where and how types are inferred.
 

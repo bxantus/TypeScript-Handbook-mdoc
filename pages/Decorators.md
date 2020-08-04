@@ -1,4 +1,6 @@
-# Introduction
+# Decorators in TypeScript
+
+## Introduction
 
 With the introduction of Classes in TypeScript and ES6, there now exist certain scenarios that require additional features to support annotating or modifying classes and class members.
 Decorators provide a way to add both annotations and a meta-programming syntax for class declarations and members.

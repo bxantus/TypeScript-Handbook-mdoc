@@ -1,4 +1,4 @@
-# Introduction
+# Namespaces and Modules
 
 This post outlines the various ways to organize your code using modules and namespaces in TypeScript.
 We'll also go over some advanced topics of how to use namespaces and modules, and address some common pitfalls when using them in TypeScript.

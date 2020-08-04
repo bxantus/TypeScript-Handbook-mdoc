@@ -1,4 +1,6 @@
-# Introduction
+# Functions in TypeScript
+
+## Introduction
 
 Functions are the fundamental building block of any application in JavaScript.
 They're how you build up layers of abstraction, mimicking classes, information hiding, and modules.

@@ -1,3 +1,4 @@
+<!-- NOTE: the contents here are present in `Type Checking JavaScript Files.md` too!-->
 The list below outlines which constructs are currently supported
 when using JSDoc annotations to provide type information in JavaScript files.
 

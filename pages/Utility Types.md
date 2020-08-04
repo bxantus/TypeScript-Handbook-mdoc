@@ -1,4 +1,4 @@
-# Introduction
+# Utility types
 
 TypeScript provides several utility types to facilitate common type transformations. These utilities are available globally.
 

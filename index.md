@@ -50,6 +50,7 @@
 * Project Configuration
   * [tsconfig.json](pages/tutorials/tsconfig.json.md)
   * [Compiler Options](pages/Compiler%20Options.md)
+    * [Configuring watch](pages/Configuring%20Watch.md)
   * [Project References](pages/Project%20References.md)
   * [Compiler Options in MSBuild](pages/Compiler%20Options%20in%20MSBuild.md)
   * [Integrating with Build Tools](pages/Integrating%20with%20Build%20Tools.md)
