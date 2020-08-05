@@ -1,4 +1,6 @@
-# Introduction
+# Modules 
+
+## Introduction
 
 Starting with ECMAScript 2015, JavaScript has a concept of modules. TypeScript shares this concept.
 

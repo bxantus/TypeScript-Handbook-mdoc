@@ -1,4 +1,4 @@
-# Introduction
+# Declaration Merging
 
 Some of the unique concepts in TypeScript describe the shape of JavaScript objects at the type level.
 One example that is especially unique to TypeScript is the concept of 'declaration merging'.

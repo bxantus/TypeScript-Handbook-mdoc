@@ -1,4 +1,4 @@
-Build tools
+# Integrating with build tools
 
 * [Babel](#babel)
 * [Browserify](#browserify)

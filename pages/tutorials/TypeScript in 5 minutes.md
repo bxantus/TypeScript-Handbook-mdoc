@@ -1,3 +1,5 @@
+# Typescript in 5 minutes
+
 Let's get started by building a simple web application with TypeScript.
 
 ## Installing TypeScript
@@ -167,5 +169,3 @@ Notice, too, that you can right-click on a symbol and use refactoring to rename 
 
 The type information provided works together with the tools to work with JavaScript at application scale.
 For more examples of what's possible in TypeScript, see the Samples section of the website.
-
-![Visual Studio picture](/assets/images/docs/greet_person.png)

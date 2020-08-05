@@ -1,4 +1,6 @@
-# Table of contents
+# Mixins
+
+## Table of contents
 
 [Introduction](#introduction)
 

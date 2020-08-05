@@ -1,3 +1,5 @@
+# Compiler options 
+
 ## Using the CLI
 
 Running `tsc` locally will compile the closest project defined by a `tsconfig.json`, you can compile a set of TypeScript

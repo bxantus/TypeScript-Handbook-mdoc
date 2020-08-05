@@ -1,20 +1,6 @@
-# Table of Contents
-1. [Introduction](#introduction)
-2. [Boolean](#boolean)
-3. [Number](#number)
-4. [String](#string)
-5. [Array](#array)
-6. [Tuple](#tuple)
-7. [Enum](#enum)
-8. [Any](#any)
-9. [Void](#void)
-10. [Null and Undefined](#null-and-undefined)
-11. [Never](#never)
-12. [Object](#object)
-13. [Type assertions](#type-assertions)
-14. [A note about 'let'](#a-note-about-let)
+# Basic types
 
-# Introduction
+## Introduction
 
 For programs to be useful, we need to be able to work with some of the simplest units of data: numbers, strings, structures, boolean values, and the like.
 In TypeScript, we support much the same types as you would expect in JavaScript, with a convenient enumeration type thrown in to help things along.
